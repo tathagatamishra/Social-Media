@@ -1,5 +1,7 @@
 # Social Media
 
+<img align='right' src="https://media.giphy.com/media/ZDuNgqyStEme0J69GO/giphy.gif" width="230">
+
 ## OVERVIEW
 
 This is a MERN application where user can create & log into there account. User can post random photos & other users can like & comment on that post.
