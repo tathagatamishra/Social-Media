@@ -18,3 +18,15 @@ User also can send friend request. Friends can chat together.
 ## BLUEPRINT
 
 ![Blue-Print](https://user-images.githubusercontent.com/114053180/221840919-6dbb9131-6227-4385-b743-645d62c938b9.jpg)
+
+### Extra Information 
+
+<p>
+The social media platform project provides an interface for users to upload photos and view photos uploaded by other users. Users can send friend requests to other users and accept or reject friend requests from other users. The project also provides a real-time chat feature that enables users to chat with their friends.
+<br><br>
+The project is built using a modular architecture that makes it easy to extend and maintain. The codebase is organized into modules for handling photo uploads, user authentication, friend requests, and chat functionality. Each module is responsible for a specific set of tasks, making it easy to test and debug.
+<br><br>
+In addition to photo uploads, friend requests, and chat functionality, the social media platform project also includes features for managing user profiles, viewing user activity, and managing privacy settings. Users can update their profile information, view their own activity on the platform, and manage their privacy settings.
+<br><br>
+Overall, the social media platform project is a scalable, high-performance web application that provides a platform for users to upload photos, send friend requests, and chat with each other. It is built using Node.js, React, and MongoDB, and is designed to be modular and easy to extend and maintain.
+</p>
