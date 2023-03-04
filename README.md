@@ -17,7 +17,7 @@ User also can send friend request. Friends can chat together.
 
 ## BLUEPRINT
 
-![Blue-Print](https://user-images.githubusercontent.com/114053180/221840919-6dbb9131-6227-4385-b743-645d62c938b9.jpg)
+[![Blue-Print](https://user-images.githubusercontent.com/114053180/222925924-af3655cc-2966-442b-b3e9-63904ebf3b44.jpg)](https://miro.com/app/live-embed/uXjVPl4YWnA=/?moveToViewport=-1730,-742,2902,1733&embedId=966182737060)
 
 ### Extra Information 
 
