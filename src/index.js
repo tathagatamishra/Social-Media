@@ -5,7 +5,7 @@ const mongoose = require("mongoose");
 // importing internal modules
 const router = require("./route/route");
 
-// -------------------------
+// ------------------------
 const app = express();
 
 app.use(express.json());
