@@ -6,6 +6,9 @@
 
 This is a MERN application where user can create & log into there account. User can post random photos & other users can like & comment on that post.
 User also can send friend request. Friends can chat together.
+<p align="left">
+<img src="https://user-images.githubusercontent.com/114053180/223317968-76a12acf-22fe-4eee-ac05-9c58bd15762f.png" width="450">
+</p>
 
 ## FEATURES
 
