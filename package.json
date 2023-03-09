@@ -3,10 +3,9 @@
   "version": "1.0.0",
   "description": "<img align='right' src=\"https://media.giphy.com/media/ZDuNgqyStEme0J69GO/giphy.gif\" width=\"230\">",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npx nodemon src/index.js"
+    "start": "npx nodemon src/app.js"
   },
   "repository": {
     "type": "git",

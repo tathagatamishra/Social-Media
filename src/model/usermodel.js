@@ -8,23 +8,23 @@ module.exports = mongoose.model(
     {
       fname: {
         type: String,
-        required: true,
+        // required: true,
         trim: true,
       },
       lname: {
         type: String,
-        required: true,
+        // required: true,
         trim: true,
       },
       email: {
         type: String,
-        required: true,
-        unique: true,
+        // required: true,
+        // unique: true,
         trim: true
       },
       password: {
         type: String,
-        required: true
+        // required: true
       }
     },
     { timestamps: true }
